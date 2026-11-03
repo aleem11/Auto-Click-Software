@@ -10,4 +10,4 @@ AI-powered auto click software designed to automate repetitive screen interactio
 - Adaptive screen interaction
 - Improved workflow efficiency
 
-Learn more about Auto Click Software: YOUR-WEBPAGE-URL
+Learn more about Auto Click Software: https://www.websautomation.com/auto-clicker-and-captcha-solver-app/
